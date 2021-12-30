@@ -133,4 +133,4 @@ Phase 3 is to look what can be achieved with Synthesis and DLL mods to make the 
 - Halgari for this playground we play in
 - Baka for the framework that helped me get through some roadblocks
 - Everyone else in the wabbajack team who make it a repository of knowledge, and also interesting times.
-- the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md) that allows me to include it.
+- the creator of ReShade with its generous [License](Reshade/RESHADELICENSE.md) that allows me to include it.

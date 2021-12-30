@@ -16,7 +16,18 @@ For this reason please do NOT go to the original authors on Nexusmods for suppor
 
 For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stoped them being hand-placed in the world, if you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
-QUICKSTART.
+PERFORMANCE:
+I have an i5-9400f and a 1070ti , and 16GB of RAM.
+I run the game at 1440p resolution, and get 50-70 fps in outside areas dropping to 40 or so in built-up areas of inner Boston etc, and 80-100 fps in interiors
+I would suggest that a 1060 and probably even far below that, would be fine at 1080p.
+I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
+
+GRAPHICS:
+All carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
+If you arent a fan of this , you can press the HOME button on your keyboard to bring up the reshade menu and disable the filters.
+
+
+QUICKSTART:
 
 If you dont want to read all this crap, just do this bit to install the list.
 

@@ -66,7 +66,29 @@ This is a list based around Survival mode, and extends many of its features.
 For example:
 
 You can now get wounds such as bleeding, open wounds, burns and pain. and need specific items to cure these wounds; such as bandages, surgery kits, booze ( for pain ) etc.
+
 ( modified versions of Better Locational Damage, Agony, and Survival First Aid combined all patched to work together ).
+
+With these mods, HP dosnt really mean HP, it means its a measure of healthiness, and this can drop over time or be capped at various levels, depending on your wounds.
+
+The reason that bandages restore so much health is that they are representing the improvement of your health condition deterioration due to bleeding etc.
+
+When you get shot or bitten, you will have a bleeding effect that will drop health over time, to combat this, use a tourniquet( best ) or a bandage ( ok )
+
+You will get staggered and find it hard to run after being shot.
+
+This will create an open wound which can be treated with first aid kits (best) or bandages(ok)
+
+This will create a fresh wound which will disappear over time.
+
+Crippled limbs can be repaired by surgery kits(best) or splints (ok)
+
+Torso and head wounds have their own items - you will see them in the chemistry bench.
+
+If you have full HP but have wounds, then use a suture kit to harm yourself by like 1hp, then visit a Doctor, and the doctor will detect you are injured and heal eveything.
+
+Bandages can be dirty (infection risk) , boiled(will add rads), or sterile (best)
+
 
 Sleeping only heals you up to a certain cap. 
 

@@ -1,4 +1,4 @@
-# Tales from the Northern Lands
+# NOMAD
 
 ![nomad-banner](Cover/nomad-banner.webp)
 

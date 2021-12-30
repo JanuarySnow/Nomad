@@ -74,6 +74,8 @@ Crafting items from workbenches now passes time so that your hunger and thirst a
 There is a Simplistic mental health/PTSD system in place, where the more humans you kill, the more your already stressed mind suffers ( hey you lost your partner and kid and the world has ended, and you are already a veteran ( well the male player is ), so some artistic license to suggest the player is already susceptible to this ).
 The effects of this system can be alleviated by petting dogmeat, taking chems, and smoking.
 
+( the `[` key will check your current mental status, and `]` key will auto-eat/drink )
+
 Smoking and sleeping will save the game.
 
 Better Locational Damager makes headshots matter.

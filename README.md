@@ -11,29 +11,40 @@ Immersion and realism, are kinda dirty words in modding these days, but I still 
 
 It is based upon the excellent Welcome to Paradise by Phoenix, but uses only the graphics and bugfixes sections of that list really, the rest is custom.
 
+## READ THIS BIT FIRST
+
 First and foremost - PLEASE READ THIS IF NOTHING ELSE: I have HEAVILY modified many many mods in this list, so they often look nothing like what they started out as.
 For this reason please do NOT go to the original authors on Nexusmods for support if something seems wrong, come to me on the wabbajack Discord, or log an issue on this github.
 
 For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stopped them from being hand-placed in the world. If you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
-PERFORMANCE:
+## PERFORMANCE:
+
+
 I have an i5-9400f and a 1070ti , and 16GB of RAM.
 I run the game at 1440p resolution, and get 50-70 fps in outside areas dropping to 40 or so in built-up areas of inner Boston etc, and 80-100 fps in interiors
 I would suggest that a 1060 and probably even far below that, would be fine at 1080p.
 I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
 
-GRAPHICS:
+
+## GRAPHICS:
+
+
 All carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
 If you arent a fan of this , you can press the HOME button on your keyboard to bring up the reshade menu and disable the filters.
 
 
-QUICKSTART:
+## QUICKSTART:
+
 
 If you dont want to read all this crap, just do this bit to install the list.
 
 After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
 After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence, after this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.
 Thats it, your done.
+
+
+## CHANGES AND NOTABLE MODS
 
 
 Right now thats out of the way lets list some of the changes.
@@ -132,6 +143,7 @@ Weapons are uniformly more expensive to purchase, especially prewar ones!
 Bows
 Crossbows
 
+## FUTURE PLANS
 
 This is phase 1
 

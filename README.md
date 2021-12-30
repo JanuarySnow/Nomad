@@ -14,7 +14,7 @@ It is based upon the excellent Welcome to Paradise by Phoenix, but uses only the
 First and foremost - PLEASE READ THIS IF NOTHING ELSE: I have HEAVILY modified many many mods in this list, so they often look nothing like what they started out as.
 For this reason please do NOT go to the original authors on Nexusmods for support if something seems wrong, come to me on the wabbajack Discord, or log an issue on this github.
 
-For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stoped them being hand-placed in the world, if you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
+For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stopped them from being hand-placed in the world. If you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
 PERFORMANCE:
 I have an i5-9400f and a 1070ti , and 16GB of RAM.

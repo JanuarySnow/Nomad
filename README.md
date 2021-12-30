@@ -6,7 +6,7 @@ A preliminary Readme which will be rewritten if/when this list becomes official
 
 This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction, one of solitude and atmosphere, and gritty immersion.
 
-Id say I was inspired by Ultimate Skyrim for Skyrim LE and Serenity for Skyrim SE.
+Id say I was inspired by the S.T.A.L.K.E.R games and their associated overhaul mods, also Ultimate Skyrim for Skyrim LE and Serenity for Skyrim SE.
 Immersion and realism, are kinda dirty words in modding these days, but I still like them.
 
 It is based upon the excellent Welcome to Paradise by Phoenix, but uses only the graphics and bugfixes sections of that list really, the rest is custom.

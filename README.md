@@ -137,20 +137,30 @@ Alongside the Sleepness nights mod, which adds danger to sleeping in various pla
 5. random bed/mattress outside - very dangerous
 
 More purified water recipes, craft empty bottles, get bottles back from drinking. More adhesive recipes.
+
 Around 180 added guns of various types, some of which are craftable.
+
 Around 600 new armor and clothing pieces, many of which are craftable.
+
 Many new ammo calibers that are also craftable, integrated into Weapons of Fate projectiles so they have realistic range and drop.
+
 All of which hand placed into custom leveled lists that distribute them into the world appropiately.
 
 You will not see the valuable pre-war guns before level 10 or so, and only the post-war scrap ones are craftable.
+
 Most of the armor is craftable however, but gated behind later perks.
 
 
 Chems and Alcohol now have appropiate visuals, along with low health effects.
+
 Coffee
+
 Tea
+
 Fishing
+
 Fast Travel handled by the excellent JOURNEY mod, by default fast travel is restricted to "fast travel to Settlements only, from anywhere"
+
 Power Armor mods are the same as from Welcome to Paradise, with Consistent Power Armor Overhaul, Take your cores, restore power armor frames, and some assembly required.
 
 You can pet dogs!
@@ -160,10 +170,15 @@ Dogmeat backpacks!
 West-tek tactical optics!
 
 No Power armor or minigun in Concord, because fuck you thats why.
+
 No already-built crafting benches or power armor crafting bench in Sanctuary or Red Rocket, because fuck you thats why
+
 Weapons are uniformly more expensive to purchase, especially prewar ones!
+
 Bows
+
 Crossbows
+
 
 ## FUTURE PLANS
 

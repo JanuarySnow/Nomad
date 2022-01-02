@@ -42,7 +42,12 @@ If you arent a fan of this , you can press the HOME button on your keyboard to b
 If you dont want to read all this crap, just do this bit to install the list.
 
 After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
-After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence, after this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.
+
+After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence.
+
+**
+After this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.**
+
 Thats it, your done.
 
 ## GAMEPLAY TIPS

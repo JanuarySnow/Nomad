@@ -45,8 +45,7 @@ After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folde
 
 After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence.
 
-**
-After this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.**
+**After this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.**
 
 Thats it, your done.
 

@@ -45,6 +45,24 @@ After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folde
 After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence, after this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.
 Thats it, your done.
 
+## GAMEPLAY TIPS
+
+ENSURE YOU DID THE ABOVE - SELECT MCM SETTINGS MANAGER AND APPLY THE PRESET.
+
+You will die easily. Saving happens at campfires, sleeping in beds, and smoking cigars or ciggarettes. Return to camp often to save and create bandages and so on. 
+You will not heal from food and water at all, you will heal a bit from sleeping.
+You will not heal much from stimpaks, bandages are what you need.
+
+After you die you will respawn at last bed you slept in, with 80% cap on your health, and likely injured and dehydrated, with stat penalties, Kill some enemies to recover from these penalties.
+
+Armor pieces will mostly protect from bleeding from low caliber weapons, head, limb, torso etc. Anything that could be considered bulletproof would do it.
+
+You cant build hardly anything at settlements, except for crafting workbenches and a bed. You will need to buy from merchants for a lot of things, so first steps will usually be to find one, Covenant, bunker hill, goodneighbor, that kind of place.
+
+You will not get the good pistols appearing in loot until level 10+, and rifles level 20+
+
+good pre-war guns sell for a lot and cost a lot, but are rarer to drop.
+
 
 ## CHANGES AND NOTABLE MODS
 

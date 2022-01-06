@@ -1,4 +1,4 @@
-v0.2
+## **v0.2**
 
 Fall UI minimal HUD preset added
 
@@ -45,7 +45,7 @@ Removed everyones best friend mod, as it was being overwritten anyway from survi
 Fixed Notifications popping up with black bars from overlapping elements.
 
 
-v0.12
+## **v0.12**
 
 Road Goggles were causing crashes in workbenches - dont know why. Just removed them
 

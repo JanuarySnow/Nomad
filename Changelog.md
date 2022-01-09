@@ -1,3 +1,14 @@
+## **v0.21**
+
+Added Quicktrade
+Fixed up some weirdness in the purified water recipes ( now water purifier outputs 3 at once, and recipes arent duplicated )
+Blocked Covenant workshop from becoming under player control after its quest
+Fixed crosshairs in immersive hud
+Fixed weirdness with bandages and their recipes.
+Fixed radio stations not becoming available on new game with SKK Fast start
+Fixed some more nude NPCs by removing hooded rags from body leveled lists
+Fixed ENB stealth update
+
 ## **v0.2**
 
 Fall UI minimal HUD preset added

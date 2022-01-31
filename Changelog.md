@@ -1,3 +1,34 @@
+## **v0.20**
+
+Removed G43 rifle damage mods
+Removed Makarov Pistol, it had issues
+Reduced PMC Operator armor stats
+Updated ENB binaries
+Fixed a bunch of unused data and other minor errors that xedit reported on a load of mods
+Removed ACO and swapped in ECO
+Added Startup information box to describe first steps and changes
+Removed most of survivalist first aid except for Splints
+Added Sleep on Couches
+Added ECO crafting bench to start game items
+Custom Fast Travel Beacons
+Removed Journey mod
+Removed all misc junk and unbalanced vanilla armor recipes from ECO COBJ lists
+Use BLD Bleeding mechanics instead
+Use DamnApo/BLD/Agony multi-patch to integrate
+Removed all workshops, and all workbenches, and all settlement building (except for vault 88, mechanists lair , boston airport )
+Pulowski Bomb shelters protect from rad storms
+Rebalance VATS slowdown to be a bit easier
+Alcohol reduces pain
+Added ECO OMOD stripper
+Buff Crossbow slightly
+Removed Hunting Kit COBJ ( as using Hunter of the commonwealth instead )
+Removed Weapons of Fate as Caliber COmplex had same features anyway
+Added BLD bleeding notification script
+Custom placeable storage duffel bag
+Reduced chances of sleepness nights encounters
+various other consistency and bug patches
+
+
 ## **v0.21**
 
 Added Quicktrade

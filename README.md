@@ -16,7 +16,6 @@ For this reason please do NOT go to the original authors on Nexusmods for suppor
 
 For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stopped them from being hand-placed in the world. If you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
-Loadorderlibrary: https://loadorderlibrary.com/lists/nomad
 
 ## PERFORMANCE:
 

@@ -2,14 +2,12 @@
 
 ![nomad-banner](Cover/nomad-banner.webp)
 
-A preliminary Readme which will be rewritten if/when this list becomes official
-
 This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction, one of solitude and atmosphere, and gritty immersion.
 
 Id say I was inspired by the S.T.A.L.K.E.R games and their associated overhaul mods, also Ultimate Skyrim for Skyrim LE and Serenity for Skyrim SE.
 Immersion and realism, are kinda dirty words in modding these days, but I still like them.
 
-It is based upon the excellent Welcome to Paradise by Phoenix, but uses only the graphics and bugfixes sections of that list really, the rest is custom.
+It builds upon the excellent Welcome to Paradise Fallout 4 list by Phoenix, but uses only the graphics and bugfixes sections of that list, the rest is custom.
 
 ## READ THIS BIT FIRST
 
@@ -53,120 +51,94 @@ Thats it, your done.
 
 ENSURE YOU DID THE ABOVE - SELECT MCM SETTINGS MANAGER AND APPLY THE PRESET.
 
-You will die easily. Saving happens at campfires, sleeping in beds, and smoking cigars or ciggarettes. Return to camp often to save and create bandages and so on. 
+You will die easily. Saving happens at campfires, sleeping in beds, and smoking cigars or ciggarettes - Make use of these before battles. 
+
+Return to camp often to save and heal and rest.
 You will not heal from food and water at all, you will heal a bit from sleeping.
-You will not heal much from stimpaks, bandages are what you need.
+You will not heal much from stimpaks, bandages and rest are what you need.
 
-After you die you will respawn at last bed you slept in, with 80% cap on your health, and likely injured and dehydrated, with stat penalties, Kill some enemies to recover from these penalties.
+After you die you will respawn at last bed you slept in, with 80% cap on your health, and famished and dehydrated, with stat penalties, Kill some enemies to recover from these penalties, this simualtes you crawling back to base and recovering over time.
 
-Armor pieces will mostly protect from bleeding from low caliber weapons, head, limb, torso etc. Anything that could be considered bulletproof would do it.
+Armor pieces can protect somewhat against bleeding to various locations, the more coverage, the better.
 
-You cant build hardly anything at settlements, except for crafting workbenches and a bed. You will need to buy from merchants for a lot of things, so first steps will usually be to find one, Covenant, bunker hill, goodneighbor, that kind of place.
+Crippled limbs can be healed with splints or (better) First aid kit or (even better ) first aid kit with surgical supplies/doctors kit
+
+There is no settlement building at all, except for at Vault 88 or Mechanists Lair. Player housing is currently a work in progress ( I need to find a good replacement for settlement building in home plate for example )
 
 You will not get the good pistols appearing in loot until level 10+, and rifles level 20+
 
 good pre-war guns sell for a lot and cost a lot, but are rarer to drop.
 
+You start the game with a mobile workbench, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
 
-## CHANGES AND NOTABLE MODS
+Craft camping gear early on, craft bedroll so you can rest in safe locations ( not all locations are completely safe to rest in, be warned! - interiors are slightly safer than exteriors, and NPC owned settlements are even safer. )
 
+You cannot camp in the grounds of a faction/NPC settlement, until you are allied to them.
 
-Right now thats out of the way lets list some of the changes.
+Craft bandages, youll need them, craft splints, have stashes of food and water and medicaal supplies at your most recent basecamp, if you respawn there.
 
-There is no settlement building, thats right - none.
-No babysitting settlements, no rebuilding civilization, Preston and the minutemen and the sanctuary crew are all deleted from the game, gone, kaput.
-
-( From a combined and modified mash-up of Last Man Standing, and Minutemens Last Stand mods )
-
-In this list, a "settlement" like Sanctuary is now a semi-permanent camp where the player can treat their wounds and craft items and sleep in a slightly safer place.
-
-They cannot become leader of existing settlements, they can only create new semi-permanent camps by taking over abandoned settlements.
-
-If they ally with an existing settlement, they can then camp there and benefit from its safety. ( more on this later ) and get merchant discounts, thats it.
-
-( or you could kill all NPCs at a settlement and take it over as a new camp ! )
-
-This is a list based around Survival mode, and extends many of its features.
-For example:
-
-You can now get wounds such as bleeding, open wounds, burns and pain. and need specific items to cure these wounds; such as bandages, surgery kits, booze ( for pain ) etc.
-
-( modified versions of Better Locational Damage, Agony, and Survival First Aid combined all patched to work together ).
-
-With these mods, HP dosnt really mean HP, it means its a measure of healthiness, and this can drop over time or be capped at various levels, depending on your wounds.
-
-The reason that bandages restore so much health is that they are representing the improvement of your health condition deterioration due to bleeding etc.
-
-When you get shot or bitten, you will have a bleeding effect that will drop health over time, to combat this, use a tourniquet( best ) or a bandage ( ok )
-
-You will get staggered and find it hard to run after being shot.
-
-This will create an open wound which can be treated with first aid kits (best) or bandages(ok)
-
-This will create a fresh wound which will disappear over time.
-
-Crippled limbs can be repaired by surgery kits(best) or splints (ok)
-
-Torso and head wounds have their own items - you will see them in the chemistry bench.
-
-If you have full HP but have wounds, then use a suture kit to harm yourself by like 1hp, then visit a Doctor, and the doctor will detect you are injured and heal eveything.
-
-Bandages can be dirty (infection risk) , boiled(will add rads), or sterile (best)
-
-
-Sleeping only heals you up to a certain cap. 
-
-Food does not heal, nor does water.
-
-Crafting and building does not give any XP
+Craft custom fast travel beacons from the Utility section of the ECO bench, you can place up to 5 of these at a time, and travel between them for a cost.
 
 Radiation is now far more prevalent in hot pockets dotted around the landscape, and is far more damaging, and amplified in food and water.
 Choosing equipment with radiation protection over physical protection is now a very real choice.
 In vanilla F4 radiation was hardly ever a concern, now it is.
 
-Armor now has encumbrance values based on its weight, which slows down the player speed and reduces action points, making lighter armor a more viable option later into the game.
+Craft a placeable storage bag from the Utility section of the ECO bench so you can stash your loot at your basecamps.
 
-Crafting items from workbenches now passes time so that your hunger and thirst and sleep are a currency of sorts, this also applies to the limited settlement building allowed ( mostly workbenches ) and settlement scrapping too.
+Hunt animals to get their meat and skin. - Ensure you have a knife or other sharp melee weapon to butcher them.
+
+When you are in pain, use painkillers or strong booze to reduce it.
+
+You can also use a fishing rod to fish in rivers.
+
+Dogmeat can be equipped with backpacks to increase his carrying capacity, so can you.
+
+Crossbows and Bows are a good fallback option to craft as their ammo wont be as scarce as others - use with stealth for maximum effect.
+
+Crafting objects will now take time, based on the number of their components. 
+
+Crafting does not give any XP
+
+Bandages can be dirty (infection risk) , boiled(will add rads), or sterile (best)
+
+Armor now has encumbrance values based on its weight, which slows down the player speed and reduces action points, making lighter armor a more viable option later into the game.
 
 There is a Simplistic mental health/PTSD system in place, where the more humans you kill, the more your already stressed mind suffers ( hey you lost your partner and kid and the world has ended, and you are already a veteran ( well the male player is ), so some artistic license to suggest the player is already susceptible to this ).
 The effects of this system can be alleviated by petting dogmeat, taking chems, and smoking.
 
-( the `[` key will check your current mental status, and `]` key will auto-eat/drink )
-
-Smoking and sleeping will save the game.
-
-Better Locational Damager makes headshots matter.
-
-Technical Documents are now useful for legendary upgrades.
-
-When you die you respawn at the bed you last slept at , with caps and SPECIAL and xp penalties ( and whatever agony/first aid wounds you had when you died)
-this disincentivizes save scumming, and makes survival less frustrating at the same time.
-
-Perks and Tag skills are added by the "You're Special" mod to add variety to builds.
-
-Loot is handled by modified "Damn Apocalypse" mod which mostly overwrites BLDs leveled lists, makes found loot and food scarce in the commonwealth.
-
-Hunter of the commonwealth mod is used to add alternative sources for food and leather for the nomadic playstyle.
-
-Alongside the Campsite mod, which allows you to sleep and cook and do simple crafting when you are out in the wilderness.
-
-You cannot camp in the grounds of a faction/NPC settlement, until you are allied to them.
-
-Alongside the Sleepness nights mod, which adds danger to sleeping in various places; as below
-
-1. Interior cell that is cleared - Most safe
-2. player-owned settlement or an NPC settlement that like you - moderately safe
-3. interior cell that is not cleared - mildly dangerous
-4. exterior campsite camp - pretty dangerous
-5. random bed/mattress outside - very dangerous
-
 More purified water recipes, craft empty bottles, get bottles back from drinking. More adhesive recipes.
+
+## CHANGES AND NOTABLE MODS
+
+Agony
+
+Better Locational Damage
+
+Damn Apocalypse
+
+Minutemans Last Stand
+
+Last Man Standing (modified)
+
+Crafting Takes Time
+
+Campsite
+
+Hunter of the Commonwealth
+
+Equipment and Crafting Overhaul (modified)
+
+Caliber Complex
+
+PTSD Mental Health Management
+
+Armor Encumbrance
 
 Around 180 added guns of various types, some of which are craftable.
 
 Around 600 new armor and clothing pieces, many of which are craftable.
 
-Many new ammo calibers that are also craftable, integrated into Weapons of Fate projectiles so they have realistic range and drop.
+Many new ammo calibers that are also craftable, with the features from Weapons of Fate integrated
 
 All of which hand placed into custom leveled lists that distribute them into the world appropiately.
 
@@ -174,34 +146,15 @@ You will not see the valuable pre-war guns before level 10 or so, and only the p
 
 Most of the armor is craftable however, but gated behind later perks.
 
+Power Armor mods are the same as from Welcome to Paradise, with Consistent Power Armor Overhaul, Take your cores, restore power armor frames, and some assembly required. ( fusion core drain rebalanced due to no fast travel - drains less )
 
-Chems and Alcohol now have appropiate visuals, along with low health effects.
-
-Coffee
-
-Tea
-
-Fishing
-
-Fast Travel handled by the excellent JOURNEY mod, by default fast travel is restricted to "fast travel to Settlements only, from anywhere"
-
-Power Armor mods are the same as from Welcome to Paradise, with Consistent Power Armor Overhaul, Take your cores, restore power armor frames, and some assembly required.
-
-You can pet dogs!
-
-Dogmeat backpacks!
-
-West-tek tactical optics!
+West-tek tactical optics
 
 No Power armor or minigun in Concord, because fuck you thats why.
 
 No already-built crafting benches or power armor crafting bench in Sanctuary or Red Rocket, because fuck you thats why
 
 Weapons are uniformly more expensive to purchase, especially prewar ones!
-
-Bows
-
-Crossbows
 
 
 ## FUTURE PLANS

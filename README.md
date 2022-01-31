@@ -187,7 +187,8 @@ Phase 3 is to look what can be achieved with Synthesis and DLL mods to make the 
 
 - Xanza for knowledge
 - Lively for knowledge
-- Luca for knowledge
+- Luca for knowledge#
+- Fornication for extensive bug-testing
 - Halgari for this playground we play in
 - Baka for the framework that helped me get through some roadblocks
 - Everyone else in the wabbajack team who make it a repository of knowledge, and also interesting times.

@@ -157,6 +157,25 @@ No already-built crafting benches or power armor crafting bench in Sanctuary or 
 Weapons are uniformly more expensive to purchase, especially prewar ones!
 
 
+## CONTROLS
+
+custom hotkeys are defined in the MCM for "Hotkey Manager"
+
+`[` key checks Mental Health level
+
+`/` key opens ECOs quick weapon mod menu ( useful for attaching or stripping weapon mods on the fly etc )
+
+`,` key eats and hydrates quickly
+
+`.` key hydrates quickly
+
+`x` to toggle HUD
+
+`;` toggle Night Vision if using West tek tactical optic
+
+`#` toggle therma vision if using west tek tactical optic
+
+
 ## FUTURE PLANS
 
 This is phase 1

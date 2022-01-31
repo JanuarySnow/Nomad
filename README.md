@@ -71,7 +71,7 @@ good pre-war guns sell for a lot and cost a lot, but are rarer to drop.
 
 You start the game with a mobile workbench, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
 
-Craft camping gear early on, craft bedroll so you can rest in safe locations ( not all locations are completely safe to rest in, be warned! - interiors are slightly safer than exteriors, and NPC owned settlements are even safer. )
+Craft camping gear early on, craft bedroll so you can rest in safe locations ( not all locations are completely safe to rest in, be warned! - interiors are slightly safer than exteriors, and NPC owned settlements are even safer. And your luck attribute contributes to this safety calculation )
 
 You cannot camp in the grounds of a faction/NPC settlement, until you are allied to them.
 

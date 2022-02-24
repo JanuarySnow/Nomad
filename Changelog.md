@@ -1,3 +1,15 @@
+## **v0.50**
+
+Removed ECO options for directly modifying legendary slots and damage/zoom levels of every weapon
+
+Added compass back to HUD but without enemy markers etc
+
+removed ihud compass/toggle aid items
+
+Removed mental health mod, it was simplistic and ended up having zero gameplay interactions in every playthrough I did, I want to bring it back at some point but only when its a full concept that really impacts gameplay
+
+Fixed a couple of OMOD naming issues
+
 ## **v0.40**
 
 Removed ECO OMOD stripper mod as it was un-needed and had problems in this setup

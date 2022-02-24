@@ -102,9 +102,6 @@ Bandages can be dirty (infection risk) , boiled(will add rads), or sterile (best
 
 Armor now has encumbrance values based on its weight, which slows down the player speed and reduces action points, making lighter armor a more viable option later into the game.
 
-There is a Simplistic mental health/PTSD system in place, where the more humans you kill, the more your already stressed mind suffers ( hey you lost your partner and kid and the world has ended, and you are already a veteran ( well the male player is ), so some artistic license to suggest the player is already susceptible to this ).
-The effects of this system can be alleviated by petting dogmeat, taking chems, and smoking.
-
 More purified water recipes, craft empty bottles, get bottles back from drinking. More adhesive recipes.
 
 ## CHANGES AND NOTABLE MODS

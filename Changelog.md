@@ -1,3 +1,31 @@
+## **v0.40**
+
+Removed ECO OMOD stripper mod as it was un-needed and had problems in this setup
+
+removed redundant SKK OMOD stripper as it was workshop only
+
+Removed other workshop/settlement mods as they were redundant
+
+Some consistency patching for various armor pieces
+
+Slightly reduced armor encumbrance penalty
+
+Amended stash bag script to not stash caps and lockpicks by default
+
+Added Journal of the sole survivor mod, and edited it to be added to inventory on game start
+
+Replaced useless Local Leader perk with one that improves charisma while only wearing non-combat, non-armor clothing
+
+Made vanilla projectiles more inline with WOF-style BLD-style Caliber-complex projectiles, even when most vanilla stuff is converted to calcomplex, certain OMODs will revert to vanilla projectiles.
+
+Edited startup text to be non gender-specific with the mention of killed "wife"
+
+Edited consitency and naming with various guns
+
+Removed HK GSG3 as it had unexplainable range issues I couldnt fix.
+
+Fixed HK23 INNR naming conventions
+
 ## **v0.30**
 
 Removed G43 rifle damage mods

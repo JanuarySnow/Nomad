@@ -157,8 +157,6 @@ Weapons are uniformly more expensive to purchase, especially prewar ones!
 
 custom hotkeys are defined in the MCM for "Hotkey Manager"
 
-`[` key checks Mental Health level
-
 `/` key opens ECOs quick weapon mod menu ( useful for attaching or stripping weapon mods on the fly etc )
 
 `,` key eats and hydrates quickly

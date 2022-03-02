@@ -1,3 +1,10 @@
+
+## **v0.51**
+
+Removed ECO Junk crafting option as it was empty anyway
+Fixed Lstring bow MCM hotkey for arrow switching
+Restored Lstring bow arrow switcher item COBJ
+
 ## **v0.50**
 
 Removed ECO options for directly modifying legendary slots and damage/zoom levels of every weapon

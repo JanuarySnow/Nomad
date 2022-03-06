@@ -21,9 +21,62 @@ For example - for many of the weapon mods I have removed the scripted leveled li
 
 
 I have an i5-9400f and a 1070ti , and 16GB of RAM.
-I run the game at 1440p resolution, and get 50-70 fps in outside areas dropping to 40 or so in built-up areas of inner Boston etc, and 80-100 fps in interiors
+
+I run the game at 1440p resolution, and get 50-70 fps in outside areas dropping to 40 or so in built-up areas of inner Boston etc, and 80-100 fps in interiors.
+
 I would suggest that a 1060 and probably even far below that, would be fine at 1080p.
+
 I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
+
+A death alternative - respawning instead of save scumming.
+
+## MAJOR FEATURES
+
+Expanded calibers with fully simulated projectiles with drop-off
+
+Over 170 new guns and weapons, patched and cleaned and distributed manually to leveled lists.
+
+Over 550 new pieces of armor and clothing, patched, cleaned and distributed manually to leveled lists and worn by NPCs/enemies.
+
+Expanded survival system with wounds and bleeding, a harsher world, more radiation, less healing from sleeping and eating.
+
+Enemies can approach you as you sleep.
+
+Hunting and Fishing.
+
+Added realism to crafting - it now makes time pass.
+
+Armor Encumbrance System
+
+Portable placeable storage bag.
+
+And much more.
+
+## NOT INCLUDED
+
+NSFW stuff.
+
+New quest content(yet).
+
+## INSTALLATION
+Have Fallout 4 on steam, a clean copy, no mods installed, with all DLC except the HD DLC ( see below )
+
+Ensure that the HD DLC is not activated in the Steam "Manage DLC" page
+
+A Nexusmods account will be required, preferably premium to make this go much faster.
+
+
+Get [Wabbajack](https://www.wabbajack.org/).
+
+Mod Organizer 2 requires the latest Microsoft Visual C++ Redistributable, and .net
+
+Install both the console and desktop x64 apps from [Here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+
+And Visual C++ from [Here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
+Either download the release nomad.wabbajack file from the github releases page and open it with Wabbajack, or - if and when this list becomes "official" it will then be browsable from the main Wabbajack gallery.
+
+##After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
 
 
 ## GRAPHICS:
@@ -32,13 +85,10 @@ I dont know about 4k, or ultrawide, but please let me know how that works out if
 All carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
 If you arent a fan of this , you can press the HOME button on your keyboard to bring up the reshade menu and disable the filters.
 
+To change the resolution edit isizeh and isizew in fallout4prefs.ini from the Mod Organizer 2 ini editor ![alt text](https://cdn.discordapp.com/attachments/623261438022254612/866498313606922260/unknown.png)
 
 ## QUICKSTART:
 
-
-If you dont want to read all this crap, just do this bit to install the list.
-
-After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
 
 After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence.
 
@@ -104,6 +154,12 @@ Armor now has encumbrance values based on its weight, which slows down the playe
 
 More purified water recipes, craft empty bottles, get bottles back from drinking. More adhesive recipes.
 
+## CONTROLLER SUPPORT
+
+I dont use a controller for Fallout 4, but it is on my TODO list to try and fully support it at some point. 
+
+Ive been told there are minor issues in the UI with a controller, but it is not a major priority for me to support as of right now.
+
 ## CHANGES AND NOTABLE MODS
 
 Agony
@@ -130,15 +186,7 @@ PTSD Mental Health Management
 
 Armor Encumbrance
 
-Around 180 added guns of various types, some of which are craftable.
-
-Around 600 new armor and clothing pieces, many of which are craftable.
-
 Many new ammo calibers that are also craftable, with the features from Weapons of Fate integrated
-
-All of which hand placed into custom leveled lists that distribute them into the world appropiately.
-
-You will not see the valuable pre-war guns before level 10 or so, and only the post-war scrap ones are craftable.
 
 Most of the armor is craftable however, but gated behind later perks.
 
@@ -167,7 +215,7 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 
 `;` toggle Night Vision if using West tek tactical optic
 
-`#` toggle therma vision if using west tek tactical optic
+`#` toggle thermal vision if using west tek tactical optic
 
 
 ## FUTURE PLANS
@@ -181,7 +229,7 @@ Phase 3 is to look what can be achieved with Synthesis and DLL mods to make the 
 
 - Xanza for knowledge
 - Lively for knowledge
-- Luca for knowledge#
+- Luca for knowledge
 - Fornication for extensive bug-testing
 - Halgari for this playground we play in
 - Baka for the framework that helped me get through some roadblocks

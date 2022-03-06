@@ -85,7 +85,7 @@ Either download the release nomad.wabbajack file from the github releases page a
 All carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
 If you arent a fan of this , you can press the HOME button on your keyboard to bring up the reshade menu and disable the filters.
 
-To change the resolution edit isizeh and isizew in fallout4prefs.ini from the Mod Organizer 2 ini editor ![alt text](https://cdn.discordapp.com/attachments/623261438022254612/866498313606922260/unknown.png)
+To change the resolution edit `isizeh` and `isizew` in fallout4prefs.ini from the Mod Organizer 2 ini editor ![alt text](https://cdn.discordapp.com/attachments/623261438022254612/866498313606922260/unknown.png)
 
 ## QUICKSTART:
 

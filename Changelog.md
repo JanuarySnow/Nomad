@@ -1,4 +1,18 @@
 
+## **v0.52**
+
+Changed all projectile gravity settings as they were dropping hugely, the author of caliber complex I think associated gravity with projectile weight, with values as high as 6.0 for 50 bmg but 1.0 for .22 LR , which didnt always give correct drop off behavior considering projectile velocity.
+
+10mm at average engagement range of approx 20m needed to aim 2 inches (screenspace measurements) above targets head - obviously too much
+
+Have edited all of the gravity values individually on a caliber by caliber basis, and tested the results ingame. 308 is relatively flat for example, and handgun calibers drop off more, but less than they did.
+
+Fixed projectiles from suppressed guns always pointing their flash graphic North
+
+Reduced length of new game start popup message to make text not so small
+
+updated and expanded Readme
+
 ## **v0.51**
 
 Removed ECO Junk crafting option as it was empty anyway

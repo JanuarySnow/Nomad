@@ -170,8 +170,6 @@ Damn Apocalypse
 
 Minutemans Last Stand
 
-Last Man Standing (modified)
-
 Crafting Takes Time
 
 Campsite

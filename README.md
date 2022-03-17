@@ -194,9 +194,9 @@ Power Armor mods are the same as from Welcome to Paradise, with Consistent Power
 
 West-tek tactical optics
 
-No Power armor or minigun in Concord, because fuck you thats why.
+No Power armor or minigun in Concord, because life isnt fair.
 
-No already-built crafting benches or power armor crafting bench in Sanctuary or Red Rocket, because fuck you thats why
+No already-built crafting benches or power armor crafting bench in Sanctuary or Red Rocket, because life isnt fair.
 
 Weapons are uniformly more expensive to purchase, especially prewar ones!
 

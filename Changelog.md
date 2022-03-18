@@ -1,4 +1,55 @@
 
+## **v0.60**
+
+Fixed Gunner Combat Outfit(Grunt) had no hands
+
+Fixed Makeshift SMG OMOD description referring to old calibers
+
+Reduced stats slightly on Makeshift SMG as it was too good ( its meant to be makeshift! )
+
+Increased stats on XM2076 sniper slightly to match its rarity and cost
+
+Increased stats on DKS-501 sniper slightly ( as above )
+
+Reduced protection and raised weight of Scavenged NCR Armor as it was pretty much better than anything else
+
+FIxed Stetchkin APS going to a fire rate of 0 when converted back to semi-auto
+
+Increased ammo availability from Vendors at mid-range levels and higher
+
+Increased damage of FN FAL slightly as it was weaker than comparable combat rifles
+
+Reduced Stetchkin APS damage when converted to 10mm, as it was much higher than comparable pistols
+
+Added Binoculars and Tactical optics to levelled lists as they were pretty much impossible to find
+
+Removed Preston as script properties in quests trying to reference him
+
+Removed "Last man standing" mod - as the only feature I used from it was the quest changes to remove the minutemen, and I reimplemented that in a better way ( see below )
+
+Previously quests like Mionrecruit02 ( Abernathy farm ) werent able to start, even by talking directly to Blake, because of the way I removed Workshops, a few quests actually required the workshops to be present.
+So what I did was enable the workbenches, but move them far underground so player cant use them, but quests can.
+
+Id rather not fix it this way as it seems that some more bugs could creep through, but the only other alternative was to just not have these quests available at all, which wasnt acceptable for me.
+
+Fixed a lot of dangling properties and such causing mostly harmless spam in papyrus log
+
+Removed Nicotine addiction from cigs, its just annoying when smoking cigs is the primary saving method now
+
+Disabled papyrus logging in release build
+
+Disabled BLD popping up its messages on every game load
+
+ACtually for real removed Junk Category from ECO workbench
+
+Made SLeepness nights too safe a few patches ago, bumped up its chances a bit now. Might tweak to find the middle ground later
+
+Goodneighbor neighborhood watch outfits , clipped more than usual with the torso armor part of their leveled lists, so removed that part.
+
+Fixed M1 Carbine automatic conversion actually reducing rate of fire
+
+Reduced price of antibiotics slightly
+
 ## **v0.52**
 
 Changed all projectile gravity settings as they were dropping hugely, the author of caliber complex I think associated gravity with projectile weight, with values as high as 6.0 for 50 bmg but 1.0 for .22 LR , which didnt always give correct drop off behavior considering projectile velocity.

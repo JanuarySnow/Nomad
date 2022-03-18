@@ -25,7 +25,7 @@ Added Binoculars and Tactical optics to levelled lists as they were pretty much 
 
 Removed Preston as script properties in quests trying to reference him
 
-Removed "Last man standing" mod - as the only feature I used from it was the quest changes to remove the minutemen, and I reimplemented that in a better way ( see below )
+Removed most of the "Last man standing" mod; the only thing really left of it is the name and a few edits - as the only feature I used from it was the quest changes to remove the minutemen, and I reimplemented that in a better way ( see below )
 
 Previously quests like Mionrecruit02 ( Abernathy farm ) werent able to start, even by talking directly to Blake, because of the way I removed Workshops, a few quests actually required the workshops to be present.
 So what I did was enable the workbenches, but move them far underground so player cant use them, but quests can.

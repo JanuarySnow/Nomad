@@ -1,4 +1,11 @@
 
+## **v0.70**
+
+Added Boat to Spectacle Island mod
+Added Junkier Junk mod - so misc static junk can be picked up and scrapped
+
+Fixed ECO workbench AGAIN as my previous fix unfixed it.
+
 ## **v0.60**
 
 Fixed Gunner Combat Outfit(Grunt) had no hands

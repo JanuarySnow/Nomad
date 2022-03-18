@@ -1,0 +1,7 @@
+- name: Actions Ecosystem Add Labels
+  uses: actions-ecosystem/action-add-labels@v1.1.0
+  with:
+    github_token: null
+    labels: null
+    repo: null
+    number: null

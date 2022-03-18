@@ -28,9 +28,9 @@ I would suggest that a 1060 and probably even far below that, would be fine at 1
 
 I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
 
-A death alternative - respawning instead of save scumming.
-
 ## MAJOR FEATURES
+
+A death alternative - respawning instead of save scumming.
 
 Expanded calibers with fully simulated projectiles with drop-off
 

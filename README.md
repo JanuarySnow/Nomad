@@ -215,6 +215,8 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 
 `#` toggle thermal vision if using west tek tactical optic
 
+`middle mouse(m3)` Opens quick wheel menu
+
 
 ## FUTURE PLANS
 

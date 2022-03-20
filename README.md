@@ -76,7 +76,7 @@ And Visual C++ from [Here](https://support.microsoft.com/en-us/help/2977003/the-
 
 Either download the release nomad.wabbajack file from the github releases page and open it with Wabbajack, or - if and when this list becomes "official" it will then be browsable from the main Wabbajack gallery.
 
-##After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
+## After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
 
 
 ## GRAPHICS:

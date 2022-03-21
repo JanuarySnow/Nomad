@@ -1,4 +1,10 @@
 
+## **v0.71**
+
+Added wheelmenu
+
+Fixed version number in Mo2
+
 ## **v0.70**
 
 Added Boat to Spectacle Island mod

@@ -235,3 +235,5 @@ Phase 3 is to look what can be achieved with Synthesis and DLL mods to make the 
 - Baka for the framework that helped me get through some roadblocks
 - Everyone else in the wabbajack team who make it a repository of knowledge, and also interesting times.
 - the creator of ReShade with its generous [License](Reshade/RESHADELICENSE.md) that allows me to include it.
+- The author of this mod for New Vegas, where I used the dry fire sounds, https://www.nexusmods.com/newvegas/mods/68941
+- The author of this mod for jamming, where I copied some of the ideas from their script for detecting firing and setting timers etc https://www.nexusmods.com/fallout4/mods/17184

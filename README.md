@@ -30,6 +30,8 @@ I dont know about 4k, or ultrawide, but please let me know how that works out if
 
 ## MAJOR FEATURES
 
+Quick and lethal gunplay, both for you and the enemies.
+
 A death alternative - respawning instead of save scumming.
 
 Expanded calibers with fully simulated projectiles with drop-off
@@ -50,13 +52,13 @@ Armor Encumbrance System
 
 Portable placeable storage bag.
 
+Gun jamming / quality system.
+
 And much more.
 
 ## NOT INCLUDED
 
 NSFW stuff.
-
-New quest content(yet).
 
 ## INSTALLATION
 Have Fallout 4 on steam, a clean copy, no mods installed, with all DLC except the HD DLC ( see below )
@@ -76,13 +78,13 @@ And Visual C++ from [Here](https://support.microsoft.com/en-us/help/2977003/the-
 
 Either download the release nomad.wabbajack file from the github releases page and open it with Wabbajack, or - if and when this list becomes "official" it will then be browsable from the main Wabbajack gallery.
 
-## After wabbajack has finished, copy the CONTENTS of the "Game Folder Files" folder in the list install directory, into your Fallout 4 steam directory.
+After the download has finished, open ModOrganizer2.exe from the location you chose, and click "Launch Nomad"
 
 
 ## GRAPHICS:
 
 
-All carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
+Mostly carried over from Welcome to Paradise list by Phoenix, although I have added a reshade filter, to add a gloomier atmosphere and darker nights, and a sharpening filter to get rid of the TAA blurry smear.
 If you arent a fan of this , you can press the HOME button on your keyboard to bring up the reshade menu and disable the filters.
 
 To change the resolution edit `isizeh` and `isizew` in fallout4prefs.ini from the Mod Organizer 2 ini editor ![alt text](https://cdn.discordapp.com/attachments/623261438022254612/866498313606922260/unknown.png)
@@ -91,6 +93,8 @@ To change the resolution edit `isizeh` and `isizew` in fallout4prefs.ini from th
 
 
 After starting the game, you will go straight from the Bathroom scene where you create your character , and then pick your stats, then teleport to the vault exit sequence.
+
+After this the game will save, then quit, automatically - around 10 seconds after the vault exit, this is essential to avoid bugs that appear to be at an engine-level in the game ( specifically damage amounts applied to ammo records dont function until a game has been saved and loaded - and a few other things )
 
 **After this, open the mod config menu, select the very first entry there on the top which is "MCM settings manager" and then click apply on the preset that is displayed there.**
 
@@ -106,19 +110,21 @@ Return to camp often to save and heal and rest.
 You will not heal from food and water at all, you will heal a bit from sleeping.
 You will not heal much from stimpaks, bandages and rest are what you need.
 
-After you die you will respawn at last bed you slept in, with 80% cap on your health, and famished and dehydrated, with stat penalties, Kill some enemies to recover from these penalties, this simualtes you crawling back to base and recovering over time.
+After you die you will respawn at last bed you slept in, with 80% cap on your health, with stat penalties, Kill some enemies to recover from these penalties, this simualtes you crawling back to base and recovering over time.
 
 Armor pieces can protect somewhat against bleeding to various locations, the more coverage, the better.
 
-Crippled limbs can be healed with splints or (better) First aid kit or (even better ) first aid kit with surgical supplies/doctors kit
+Crippled limbs can be healed with splints or (better) First aid kits.
 
 There is no settlement building at all, except for at Vault 88 or Mechanists Lair. Player housing is currently a work in progress ( I need to find a good replacement for settlement building in home plate for example )
 
 You will not get the good pistols appearing in loot until level 10+, and rifles level 20+
 
-good pre-war guns sell for a lot and cost a lot, but are rarer to drop.
+good pre-war guns sell for a lot and cost a lot, but are rarer to drop - they are the guns that (generally) are of a much higher quality and jam far less.
 
-You start the game with a mobile workbench, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
+You start the game with a mobile workbench in a metal box near the exit to the vault, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
+
+Use the ECO quick menu (G key by default ) to switch ammo types for Crossbow/Bow/RPG
 
 Craft camping gear early on, craft bedroll so you can rest in safe locations ( not all locations are completely safe to rest in, be warned! - interiors are slightly safer than exteriors, and NPC owned settlements are even safer. And your luck attribute contributes to this safety calculation )
 
@@ -148,8 +154,6 @@ Crafting objects will now take time, based on the number of their components.
 
 Crafting does not give any XP
 
-Bandages can be dirty (infection risk) , boiled(will add rads), or sterile (best)
-
 Armor now has encumbrance values based on its weight, which slows down the player speed and reduces action points, making lighter armor a more viable option later into the game.
 
 More purified water recipes, craft empty bottles, get bottles back from drinking. More adhesive recipes.
@@ -162,11 +166,25 @@ Ive been told there are minor issues in the UI with a controller, but it is not 
 
 ## CHANGES AND NOTABLE MODS
 
-Agony
+True Damage
 
-Better Locational Damage
+Scourge
+
+Maim
 
 Damn Apocalypse
+
+Perception increases ranged damage
+
+NO VATS
+
+Luck helps avoid weapon jams
+
+JSRS and MGWS weapon sounds
+
+Simple impact weapon effects
+
+Weapon Penetration Framework applied to all relevant projectiles
 
 Minutemans Last Stand
 
@@ -180,9 +198,9 @@ Equipment and Crafting Overhaul (modified)
 
 Caliber Complex
 
-PTSD Mental Health Management
-
 Armor Encumbrance
+
+Lock bashing and blowing up
 
 Many new ammo calibers that are also craftable, with the features from Weapons of Fate integrated
 
@@ -203,13 +221,17 @@ Weapons are uniformly more expensive to purchase, especially prewar ones!
 
 custom hotkeys are defined in the MCM for "Hotkey Manager"
 
-`/` key opens ECOs quick weapon mod menu ( useful for attaching or stripping weapon mods on the fly etc )
+`G` key opens ECOs quick weapon mod menu ( useful for attaching or stripping weapon mods on the fly / changing ammo on supported weapons etc )
 
-`,` key eats and hydrates quickly
+`,` Butchers a creature in the crosshair
 
-`.` key hydrates quickly
+`.` Examines the current weapon to see if it is suitable for butchery
 
 `x` to toggle HUD
+
+`Mouse4` to throw grenade
+
+`Mouse5` to bash with weapon
 
 `;` toggle Night Vision if using West tek tactical optic
 

@@ -239,18 +239,6 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 
 `middle mouse(m3)` Opens quick wheel menu
 
-## Known issues
-
-The dryfire empty ammo click isnt present after game start until the weapon is unequipped and re-equipped. I have no idea why, but I am working on it.
-
-
-## FUTURE PLANS
-
-This is phase 1
-
-Phase 2 is to add quests
-Phase 3 is to look what can be achieved with Synthesis and DLL mods to make the gameplay even weirder.
-
 ## Credits and Thanks
 
 - Xanza for knowledge

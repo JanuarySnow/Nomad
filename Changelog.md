@@ -1,3 +1,62 @@
+## **v0.90**
+Near total rebuild.
+
+Gone are many many awkward and problem prone mods, simplified and streamlined.
+
+Removed BLD and Agony and Survival First Aid etc
+
+Replaced with a complementary set of mods that are designed for each other - Maim, Scourge, True Damage.
+
+Added bullet penetration framework, and weapon jam framework, patched for all gun mods with synthesis automation.
+
+Added a few quest mods for a testing phase
+
+Added a bunch of weapon casing/sound/impact mods for more dynamic gunplay.
+
+Added performout fancy textures as a base replacer for all Betheseda textures, before more specific texture mods overwrite certain ones.
+
+Added A Forest and grass mods for a more realistic overgrown post-apocalyptic world.
+
+Changed pipe weapon retexture mod to one thats less rusty
+
+Added True Grass
+
+Fixed Blood Textures on corpses
+
+Removed VATS
+
+Added Scaling weapon damage based on perception - now that VATS is gone, perception needs more of a use.
+
+Added ammo switching with ECO quick menu to Crossbow, LString bow, and RPG.
+
+Added critical hits outside of vats but reduced their frequency.
+
+Added locky bastard mod for more lockpicking options
+
+Added more carry weight bonuses in power armor
+
+But no sneaking in power armor
+
+HEavy weapons require strength to use effectively
+
+Remove combat boundaries so enemies can follow more often through loading doors
+
+Added better strenght bonuses to bashing with guns
+
+Added more feral ghouls and feral ghouls expansion pack
+
+Added a bunch of base object swapper mods for more variety in the world
+
+Added playable guitars
+
+Fixed more handless and naked gunner armor spawns, there will probably be more though, that mod is a pain in my ass
+
+Added flashbang mod
+
+Speeded up character creation by removing initial voice-over
+
+Added mutant menagerie
+
 
 ## **v0.71**
 

@@ -1,3 +1,11 @@
+##v0.91##
+rebalanced some pistol calibers to be weaker
+rebalanced raider armor to be weaker
+removed some leftover crafting filter keywords
+removed useful crank for laser musket as it ruined the reason for crossbow/bow to exist.
+Fixed duplicate uility filter keyword categories for fishing rod
+fixed broken previs i usaf sattelite staiton olivia
+
 ## **v0.90**
 Near total rebuild.
 

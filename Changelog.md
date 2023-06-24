@@ -12,6 +12,8 @@ Fixed duplicate uility filter keyword categories for fishing rod
 
 fixed broken previs i usaf sattelite staiton olivia
 
+Fixed bullet sounds when throwing grenades
+
 
 ## **v0.90**
 Near total rebuild.

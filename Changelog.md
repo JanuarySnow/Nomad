@@ -14,6 +14,8 @@ fixed broken previs i usaf sattelite staiton olivia
 
 Fixed bullet sounds when throwing grenades
 
+Fixed bleeding still applying after death respawn
+
 
 ## **v0.90**
 Near total rebuild.

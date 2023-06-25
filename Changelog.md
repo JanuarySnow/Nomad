@@ -1,3 +1,30 @@
+## **v0.92**
+
+reduced healing values and added radiation to mutant menagerie foods
+
+removed level-based damage scaling, we need to feel badass when we get to higher levels!
+
+fixed UMP omod caliber swaps referring to pre-caliber complex calibers
+
+fixed camping kit objects being auto-sorted by stash bag
+
+reduced armor values of some gunner armor
+
+reduced rad resist of gunner gas masks
+
+increased armor value of b90
+
+decreased armor value of PMC operator
+
+removed stumble upon interiors and its associated patches ( prp, damnapo) because they didnt play well with other location mods
+
+reduced value of some junkier junk parts
+
+disabled Hunter of the commonwealth dismember on butcher because I learned the hard way that boombugs explode on dismember
+
+increased vendor cap amounts, (ive made trading unfair enough as it is to get the really good guns, its just painful to go from vendor to vendor to sell all your stuff or wait until their cap inventory respawns.)
+
+
 ## **v0.91**
 
 rebalanced some pistol calibers to be weaker

@@ -1,3 +1,14 @@
+## **v0.93**
+
+redid face and body textures to avoid some brownface, I dont really know this stuff, so ended up with a nifty synthesis patcher to distribute morphed presets to avoid all that kerfuffle of which NPC replacer wants which texture etc
+This ends up with some hat clipping but whatevs
+
+fixed pipboy flashlight weird shadows ( the dynamic shadow options dont work on that mod!)
+
+removed Vault jumpsuits from civilian leveled lists
+
+reduced frequency of hats in civilian leveled lists
+
 ## **v0.92**
 
 reduced healing values and added radiation to mutant menagerie foods

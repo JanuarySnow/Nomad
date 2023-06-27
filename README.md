@@ -2,6 +2,8 @@
 
 ![nomad-banner](Cover/nomad-banner.webp)
 
+NOTE: Testing versions wont contain the huge-ass CK face geometry generation files ( like 10GB or so ) so it will stutter when entering new areas as the game generates NPC faces on the fly.  If( when(if ever)) I decide this list is ready for a full release, those files will be uploaded to WJ CDN or Google Drive or something idk.
+
 This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction, one of solitude and atmosphere, and gritty immersion.
 
 Id say I was inspired by the S.T.A.L.K.E.R games and their associated overhaul mods, also Ultimate Skyrim for Skyrim LE and Serenity for Skyrim SE.

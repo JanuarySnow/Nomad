@@ -51,6 +51,7 @@ For this reason please do NOT go to the original authors on Nexusmods for suppor
 
 For example - for many of the weapon mods I have removed the scripted leveled list injections and remade leveled lists by hand, and stopped them from being hand-placed in the world. If you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
+This is currently a testing release, I am fixing bugs in my own testing as I encounter them, but having more eyes will allow me to fix bugs far quicker, so please give me your bug reports, my Discord name is JanuarySnow and I can be found in the server linked above, or drop an issue here on github.
 
 ## PERFORMANCE:
 

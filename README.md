@@ -19,12 +19,12 @@
 
 ## Contents
 - [Nomad](#Nomad)
-  - [Contents](#contents)
-  - [Preamble](#preamble)
-  - [Read this bit first](#read-this-bit-first)
-  - [Performance](#Performance)
-  - [Major Features](#Major-features)
-  - [Not Included](#Not-included)
+  - [CONTENTS](#contents)
+  - [PREAMBLE](#preamble)
+  - [READ THIS BIT FIRST](#read-this-bit-first)
+  - [PERFORMANCE](#Performance)
+  - [MAJOR FEATURES](#Major-features)
+  - [NOT INCLUDED](#Not-included)
   - [INSTALLATION](#Included)
   - [GRAPHICS](#Graphics)
   - [QUICKSTART](#QUICKSTART)

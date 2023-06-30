@@ -63,6 +63,8 @@ I would suggest that a 1060 and probably even far below that, would be fine at 1
 
 I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
 
+This list requires a total install size of 256GB ( of which 100GB is Download size, and 156GB is install files )
+
 ## MAJOR FEATURES
 
 Quick and lethal gunplay, both for you and the enemies.

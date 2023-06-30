@@ -1,3 +1,11 @@
+## **v0.95**
+
+uncapped fps in loading screens
+
+removed all new quest mods because they all break stuff, I will add one at a time as things move forward so it isnt such a burden to test everything together
+
+removed coffee cup collectables, they are annoying
+
 ## **v0.94**
 
 added time passing to fast travel beacons

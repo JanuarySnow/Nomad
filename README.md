@@ -282,6 +282,8 @@ Testing versions wont contain the huge-ass CK face geometry generation files ( l
 
 I really like the synthesis random facepart patcher that remixes the appearance of all NPCs automatically, but it does mean some hairstyles might clip with some hats, im trying to think of an automated solution, I like automation.
 
+The PRP patch for CSEP All Americans breaks previs near Diamond City, its been removed and will be fixed in next update
+
 ## CREDITS AND THANKS
 
 - Xanza for knowledge

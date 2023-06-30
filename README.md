@@ -2,7 +2,40 @@
 
 ![nomad-banner](Cover/nomad-banner.webp)
 
-NOTE: Testing versions wont contain the huge-ass CK face geometry generation files ( like 10GB or so ) so it will stutter when entering new areas as the game generates NPC faces on the fly.  If( when(if ever)) I decide this list is ready for a full release, those files will be uploaded to WJ CDN or Google Drive or something idk.
+
+<table stlyle="border: none;">
+<tr>
+<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+</tr>
+</table>
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Contents
+- [Nomad](#Nomad)
+  - [Contents](#contents)
+  - [Preamble](#preamble)
+  - [Read this bit first](#read-this-bit-first)
+  - [Performance](#Performance)
+  - [Major Features](#Major-features)
+  - [Not Included](#Not-included)
+  - [INSTALLATION](#Included)
+  - [GRAPHICS](#Graphics)
+  - [QUICKSTART](#QUICKSTART)
+  - [GAMEPLAY TIPS](#GAMEPLAY-TIPS)
+  - [CONTROLLER SUPPORT](#CONTROLLER-SUPPORT)
+  - [CHANGES AND NOTABLE MODS](#CHANGES-AND-NOTABLE-MODS)
+  - [CONTROLS](#CONTROLS)
+  - [KNOWN ISSUES](#KNOWN-ISSUES)
+  - [CREDITS AND THANKS](#CREDITS-AND-THANKS)
+
+## PREAMBLE ##
 
 This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction, one of solitude and atmosphere, and gritty immersion.
 
@@ -78,7 +111,7 @@ Install both the console and desktop x64 apps from [Here](https://dotnet.microso
 
 And Visual C++ from [Here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
-Either download the release nomad.wabbajack file from the github releases page and open it with Wabbajack, or - if and when this list becomes "official" it will then be browsable from the main Wabbajack gallery.
+Either download the release nomad.wabbajack file from the github releases page and open it with Wabbajack, or - if and when this list becomes "official" or has an unofficial release, it will then be browsable from the main Wabbajack gallery.
 
 After the download has finished, open ModOrganizer2.exe from the location you chose, and click "Launch Nomad"
 
@@ -241,16 +274,21 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 
 `middle mouse(m3)` Opens quick wheel menu
 
-## Credits and Thanks
+## KNOWN ISSUES
+Testing versions wont contain the huge-ass CK face geometry generation files ( like 10GB or so ) so it will stutter when entering new areas as the game generates NPC faces on the fly.  If( when(if ever)) I decide this list is ready for a full release, those files will be uploaded to WJ CDN or Google Drive or something idk.
+
+I really like the synthesis random facepart patcher that remixes the appearance of all NPCs automatically, but it does mean some hairstyles might clip with some hats, im trying to think of an automated solution, I like automation.
+
+## CREDITS AND THANKS
 
 - Xanza for knowledge
 - Lively for knowledge
 - Luca for knowledge
 - Fornication for extensive bug-testing
 - Halgari for this playground we play in
+- Althro and the animonc...animcnolur... animonculory? for giving me a home
 - Baka for the framework that helped me get through some roadblocks
 - Everyone else in the wabbajack team who make it a repository of knowledge, and also interesting times.
 - the creator of ReShade with its generous [License](Reshade/RESHADELICENSE.md) that allows me to include it.
 - The author of this mod for New Vegas, where I used the dry fire sounds, https://www.nexusmods.com/newvegas/mods/68941
-- The author of this mod for jamming, where I copied some of the ideas from their script for detecting firing and setting timers etc https://www.nexusmods.com/fallout4/mods/17184
 

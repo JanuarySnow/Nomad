@@ -2,9 +2,10 @@
 
 ![nomad-banner](Cover/nomad-banner.webp)
 
-
+https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/GitHub.png
 <table stlyle="border: none;">
 <tr>
+<td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/GitHub.png" width="72px" /></td>
 <td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
 </tr>
 </table>

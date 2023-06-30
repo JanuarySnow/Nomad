@@ -1,3 +1,23 @@
+## **v0.94**
+
+added time passing to fast travel beacons
+
+fixed scar-h low range
+
+removed randomized faceparts from chargen
+
+added companion stash missions
+
+removed portable rowboat mod
+
+removed corpse collision mod
+
+fixed remington model 11 polymer furniture dosnt reduce weight despite its description
+
+increased fat man value
+
+fixed military ghoul fatigues making disappearing ankles with more feral ghouls mod
+
 ## **v0.93**
 
 redid face and body textures to avoid some brownface, I dont really know this stuff, so ended up with a nifty synthesis patcher to distribute morphed presets to avoid all that kerfuffle of which NPC replacer wants which texture etc

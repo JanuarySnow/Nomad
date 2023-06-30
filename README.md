@@ -96,7 +96,10 @@ And much more.
 
 ## NOT INCLUDED
 
-NSFW stuff.
+NSFW stuff
+
+Additional quests ( going to remove all the ones I was testing in v0.95 ), why? because it seems every single quest mod breaks something
+The burden to test them all when you add a bunch at once is insurmountable, so ill add one at a time as things progress, to make it easier to test each one thoroughly.
 
 ## INSTALLATION
 Have Fallout 4 on steam, a clean copy, no mods installed, with all DLC except the HD DLC ( see below )

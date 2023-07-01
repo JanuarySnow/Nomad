@@ -287,6 +287,8 @@ I really like the synthesis random facepart patcher that remixes the appearance 
 
 The PRP patch for CSEP All Americans breaks previs near Diamond City, its been removed and will be fixed in next update
 
+My edits to SKK Fast Start may have broken starting Radio quests, I had this problem before and I fixed it, but ive forgotten how I fixed it, so Ill have to remember how I did that somehow!
+
 ## CREDITS AND THANKS
 
 - Xanza for knowledge

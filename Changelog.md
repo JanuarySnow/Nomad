@@ -1,3 +1,33 @@
+## **v0.96**
+
+reworked go stash for me companion mission mod, and added textinputmenu as a requirement for it
+
+fixed broken radio and broken codsworth by patching my own broken mod, yay
+
+reduced burning time
+
+added glass breakdown recipes
+
+fixed crops freely takeable
+
+reduced duration of stimpaks
+
+fixed piper hair clipping through hat
+
+Modified the fast travel beacons to store their custom names
+
+Modified companion stash markers to store their custom names
+
+enabled robot workshop to be built in the limited semi-settlemetns remaining in the list ( home plate etc )
+
+reduced mutant menagerie damage resistances significantly, through Scourge MCM preset
+
+Added legendary effect overhaul
+
+Enabled ECO Armor recipes ( with relevant gates ) , this may make the crafting menus more crowded but its a hell of a lot of additional stuff for very little work on my part :)
+
+Patched Automatically lowered weapons to only lower when flashlight is off
+
 ## **v0.95**
 
 uncapped fps in loading screens

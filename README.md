@@ -153,6 +153,8 @@ You will not heal much from stimpaks, bandages and rest are what you need.
 
 After you die you will respawn at last bed you slept in, with 80% cap on your health, with stat penalties, Kill some enemies to recover from these penalties, this simualtes you crawling back to base and recovering over time.
 
+If you die in a location that cannot be re-entered ( Nuka World Gauntlet etc ) then just use the Death Penalty MCM to return to place of last death ( perhaps after preparing to not instantly die again )
+
 Armor pieces can protect somewhat against bleeding to various locations, the more coverage, the better.
 
 Crippled limbs can be healed with splints or (better) First aid kits.

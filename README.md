@@ -287,9 +287,10 @@ Testing versions wont contain the huge-ass CK face geometry generation files ( l
 
 I really like the synthesis random facepart patcher that remixes the appearance of all NPCs automatically, but it does mean some hairstyles might clip with some hats, im trying to think of an automated solution, I like automation.
 
-The PRP patch for CSEP All Americans breaks previs near Diamond City, its been removed and will be fixed in next update
+Some slight floor shimmering in Home Plate
 
-My edits to SKK Fast Start may have broken starting Radio quests, I had this problem before and I fixed it, but ive forgotten how I fixed it, so Ill have to remember how I did that somehow!
+Trees clipping through Nuka-World entrance train ride cinematic.
+
 
 ## CREDITS AND THANKS
 

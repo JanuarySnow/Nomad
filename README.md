@@ -249,7 +249,7 @@ Many new ammo calibers that are also craftable, with the features from Weapons o
 
 Most of the armor is craftable however, but gated behind later perks.
 
-Power Armor mods are the same as from Welcome to Paradise, with Consistent Power Armor Overhaul, Take your cores, restore power armor frames, and some assembly required. ( fusion core drain rebalanced due to no fast travel - drains less )
+Power Armor Redux for tanky enemies and player
 
 West-tek tactical optics
 

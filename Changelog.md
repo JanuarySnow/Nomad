@@ -1,3 +1,40 @@
+## **v0.97**
+
+fixed myrna glittering hair - and anyone that uses that hair ( this one might pop up again - problem with automation patchers :( )
+
+buffed all power armor armor values
+
+reduced rad resist of gunner spec ops agent armor
+
+some crafting benches placed in homeplate settlement are in spanish idk why lol - fixed that
+
+increased 50 cal ammo damage
+
+added better power armor - redux
+
+added advanced flashbang
+
+added heavy impact power armor sounds
+
+added armor penetration bug fix
+
+added enjoy the darkness stealth change
+
+multipled all armor values across the board to the power of 1.2 then x3, this is necessary to balance for true damage and intended scale of calibers to armor penetration
+Now a 9mm pistol will kill a lightly armored person in a few hits, but ping mostly off heavy armor leaving them unharmed.
+
+Now with the better power armor redux and these armor/true damage changes, power armor enemies are absolute tanks, use anti-material calibers or explosions on them.
+
+Increased the rad resist of already rad resisting armor values disproportionately on the higher end
+( radiation is increased across the world hugely in this list, but the higher end radresist armor didnt protect fully against it - now it does - the lower end rad resist armor still wont be enough, though mitigated somewhat )
+
+reduced melee sound volume a bit
+
+reduced worldspace radio volume a bit
+
+fixed Mk23 soccom innr naming
+
+
 ## **v0.96**
 
 reworked go stash for me companion mission mod, and added textinputmenu as a requirement for it

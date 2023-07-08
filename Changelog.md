@@ -1,3 +1,9 @@
+## **v0.971**
+
+Added Machineurl to compilation
+
+removed some extra included files from compilatioon
+
 ## **v0.97**
 
 fixed myrna glittering hair - and anyone that uses that hair ( this one might pop up again - problem with automation patchers :( )

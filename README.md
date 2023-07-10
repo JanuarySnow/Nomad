@@ -251,6 +251,7 @@ No already-built crafting benches or power armor crafting bench in Sanctuary or 
 
 Weapons are uniformly more expensive to purchase, especially prewar ones!
 
+Nuka world ending now has no option to expand raider settlements into the commonwealth, dosnt fit the theme of this list, as most settlement stuff is completely slimmed down or removed
 
 ## CONTROLS
 

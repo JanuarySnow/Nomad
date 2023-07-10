@@ -17,7 +17,7 @@
   - [PERFORMANCE](#Performance)
   - [MAJOR FEATURES](#Major-features)
   - [NOT INCLUDED](#Not-included)
-  - [INSTALLATION](#Included)
+  - [INSTALLATION](#INSTALLATION)
   - [GRAPHICS](#Graphics)
   - [QUICKSTART](#QUICKSTART)
   - [GAMEPLAY TIPS](#GAMEPLAY-TIPS)

@@ -1,3 +1,15 @@
+## **v0.972**
+
+lowered RPG launcher cost
+
+moved RPG ammo switch consumable to ammo bench ( even though eco quick menu can do it anyway)
+
+tweaked reshade to have less blown out blacks and less red tint
+
+moved CK scripts/sources to a mod in MO2 and cleaned up compile inlines/excludes etc
+
+fixed Nuka World no bad choice so it dosnt automatically move on to the comnmonwealth expansion
+
 ## **v0.971**
 
 Added Machineurl to compilation

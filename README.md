@@ -137,7 +137,14 @@ Thats it, your done.
 
 ENSURE YOU DID THE ABOVE - SELECT MCM SETTINGS MANAGER AND APPLY THE PRESET.
 
-You will die easily. Saving happens at campfires, sleeping in beds, and smoking cigars or ciggarettes - Make use of these before battles. 
+You will die easily. Saving happens at campfires, sleeping in beds, and smoking cigars or ciggarettes - Make use of these before battles.
+
+Again, you will die easily, the best tactic is not get shot at all, getting shot sucks, be sneaky, use grenades and traps and ambush tactics.
+
+Laser/plasma weapons have higher armor pentration.
+
+light armor(leather) will only give you brief protection against pistol calibers, heavy armor(combat armor) will give you protection against a few rifle caliber hits.
+So you see - it aint much either way, but power armor is an absolute tank for you and enemies.
 
 Return to camp often to save and heal and rest.
 You will not heal from food and water at all, you will heal a bit from sleeping.

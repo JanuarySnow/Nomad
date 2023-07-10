@@ -304,4 +304,4 @@ Trees clipping through Nuka-World entrance train ride cinematic.
 - Everyone else in the wabbajack team who make it a repository of knowledge, and also interesting times.
 - the creator of ReShade with its generous [License](Reshade/RESHADELICENSE.md) that allows me to include it.
 - The author of this mod for New Vegas, where I used the dry fire sounds, https://www.nexusmods.com/newvegas/mods/68941
-
+- Cover artwork from Bethesedas pre-production concept art, used with assumed permission as per Nexusmods policy on Betheseda assets used to mod Betheseda games.

@@ -64,7 +64,7 @@ Quick and lethal gunplay, both for you and the enemies.
 
 A death alternative - respawning instead of save scumming.
 
-Expanded calibers with fully simulated projectiles with drop-off
+Expanded calibers with fully simulated projectiles with drop-off and bullet penetration of cover depending on the caliber and material of the cover.
 
 Over 170 new guns and weapons, patched and cleaned and distributed manually to leveled lists.
 

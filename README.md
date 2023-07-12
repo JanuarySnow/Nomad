@@ -160,6 +160,8 @@ Crippled limbs can be healed with splints or (better) First aid kits.
 
 There is no settlement building at all, except for at Vault 88 or Mechanists Lair. Player housing is currently a work in progress ( I need to find a good replacement for settlement building in home plate for example )
 
+There are no Minutemen anymore, no Preston. I found that questline to be more focused on settlement building and (as above) that wasnt the focus of this list, its a distraction and it feels out of character for main story, it just felt a bit silly and lessened the feeling of survival in the wasteland.
+
 You will not get the good pistols appearing in loot until level 10+, and rifles level 20+
 
 good pre-war guns sell for a lot and cost a lot, but are rarer to drop - they are the guns that (generally) are of a much higher quality and jam far less.

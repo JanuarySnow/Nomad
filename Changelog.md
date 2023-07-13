@@ -1,3 +1,9 @@
+## **v0.973**
+
+Removed Performout fancy textures, the author hid the file in favor of a new tool ( although that dosnt technically stop WJ fron downloading it did prompt me to reconsider
+as the files are just generally far too big for WJ to always download succesfully as a few people have noted 
+so ive replaced it with targeted texture upscaling, much smaller, and probably better than a blanket all textures upscaled thing.
+
 ## **v0.972**
 
 lowered RPG launcher cost

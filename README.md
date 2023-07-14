@@ -54,10 +54,13 @@ Using a HDD rather than an SSD will result in a LOT more stuttering, please use 
 Here are some known results on different GPUs and resolutions, tested wandering around the wasteland, not in Inner Boston ( because everyones performance struggles in Boston, no matter the hardware, its just how Fallout 4 is )
 
 1070ti @ 1440p = 60 fps
+
 1070ti @ 1080p = 80 fps
 
 1080ti @ 4k = 65 fps
+
 1080ti @ 1440p = 70 fps
+
 1080ti @ 1080p = 95 fps
 
 3070ti @ 1440p = 90 fps

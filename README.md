@@ -49,14 +49,20 @@ This is currently a testing release, I am fixing bugs in my own testing as I enc
 
 ## PERFORMANCE:
 
+Using a HDD rather than an SSD will result in a LOT more stuttering, please use an SSD if possible.
 
-I have an i5-9400f and a 1070ti , and 16GB of RAM.
+Here are some known results on different GPUs and resolutions, tested wandering around the wasteland, not in Inner Boston ( because everyones performance struggles in Boston, no matter the hardware, its just how Fallout 4 is )
 
-I run the game at 1440p resolution, and get 50-70 fps in outside areas dropping to 40 or so in built-up areas of inner Boston etc, and 80-100 fps in interiors.
+1070ti @ 1440p = 60 fps
+1070ti @ 1080p = 80 fps
 
-I would suggest that a 1060 and probably even far below that, would be fine at 1080p.
+1080ti @ 4k = 65 fps
+1080ti @ 1440p = 70 fps
+1080ti @ 1080p = 95 fps
 
-I dont know about 4k, or ultrawide, but please let me know how that works out if you do have it.
+3070ti @ 1440p = 90 fps
+
+4090 @ 4k = 120fps ( Id hope so )
 
 This list requires a total install size of around 190GB ( of which around 90GB is Download size, and around 100GB is install files )
 

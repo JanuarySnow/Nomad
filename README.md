@@ -63,6 +63,8 @@ Here are some known results on different GPUs and resolutions, tested wandering 
 
 1080ti @ 1080p = 95 fps
 
+2060 @ 1080p = 60fps
+
 3070ti @ 1440p = 90 fps
 
 4090 @ 4k = 120fps ( Id hope so )

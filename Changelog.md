@@ -1,3 +1,17 @@
+## **v0.974**
+
+added ultrawidescreen UI mod for those who have ultrawide ( I cant test it, but hopefully someone can let me know if it works )
+
+reduced HP of larva creatures ( they are already reduced from Scourge MCM but the starting larva spawned on sanctuary bridge is spawned before Scourge nerfs it so it needed to be nerfed manually )
+
+added FOV and ultrawide info to readme
+
+Buffed true storms rad values to match buffed rad protection
+
+Fixed beretta PX4 sounds
+
+set default FOV to 90
+
 ## **v0.973**
 
 Removed Performout fancy textures, the author hid the file in favor of a new tool ( although that dosnt technically stop WJ fron downloading it did prompt me to reconsider

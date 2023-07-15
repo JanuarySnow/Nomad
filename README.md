@@ -137,6 +137,10 @@ To change the resolution edit `isizeh` and `isizew` in fallout4prefs.ini from th
 
 If you have Ultrawide - enable the ultrawide mod in the Optional section of Mo2 left pane ( note - I dont have ultrawide so im hoping someone will let me know how this works with the list )
 
+What works best for me with a gsync monitor, is disabling vsync and adding an FPS cap of 60
+
+If you want to change this, then the best place is in highfpsphysicsfix.ini in MO2 right pane -> data -> skse -> plugins ( edit this to enable or disable vsync, screen tearing, and fps cap - use this INSTEAD of ENB cap/vsync and ipresentinterval in fallout4.ini )
+
 ## QUICKSTART:
 
 

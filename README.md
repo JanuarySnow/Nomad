@@ -135,6 +135,8 @@ If you arent a fan of this , you can press the HOME button on your keyboard to b
 
 To change the resolution edit `isizeh` and `isizew` in fallout4prefs.ini from the Mod Organizer 2 ini editor ![alt text](https://cdn.discordapp.com/attachments/623261438022254612/866498313606922260/unknown.png)
 
+If you have Ultrawide - enable the ultrawide mod in the Optional section of Mo2 left pane ( note - I dont have ultrawide so im hoping someone will let me know how this works with the list )
+
 ## QUICKSTART:
 
 

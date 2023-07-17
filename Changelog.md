@@ -1,3 +1,14 @@
+## **V0.976**
+
+Added workaround for automatic workshop ownership switching when enemies cleared allowing player to hold V to access settlement menu
+
+tweaked reshade yet again, can never get it exaclty how I want
+
+allowed generators to be built anywhere, same with main quest institute teleporters
+this will help main quest when siding with railroad, I say anywhere but I mean the few remaining settlements allowed 
+
+Fixed Demolition Expert Perk Rank 4 referencing VATS , and restored its previous double damage to explosions - useful synergy with armor changes.
+
 ## **v0.975**
 
 Compile for latest Wabbajack version

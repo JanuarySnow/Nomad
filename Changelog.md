@@ -1,3 +1,7 @@
+## **v0.975**
+
+Compile for latest Wabbajack version
+
 ## **v0.974**
 
 added ultrawidescreen UI mod for those who have ultrawide ( I cant test it, but hopefully someone can let me know if it works )

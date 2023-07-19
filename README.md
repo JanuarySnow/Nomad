@@ -304,7 +304,6 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 `middle mouse(m3)` Opens quick wheel menu
 
 ## KNOWN ISSUES
-Testing versions wont contain the huge-ass CK face geometry generation files ( like 10GB or so ) so it will stutter when entering new areas as the game generates NPC faces on the fly.  If( when(if ever)) I decide this list is ready for a full release, those files will be uploaded to WJ CDN or Google Drive or something idk.
 
 I really like the synthesis random facepart patcher that remixes the appearance of all NPCs automatically, but it does mean some hairstyles might clip with some hats, im trying to think of an automated solution, I like automation.
 

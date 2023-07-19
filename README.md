@@ -312,6 +312,9 @@ Some slight floor shimmering in Home Plate
 
 Trees clipping through Nuka-World entrance train ride cinematic.
 
+Crafting bench categories are a bit of a mess; At first I did all the COBJs by hand, then I added ECO and ECO integrated which adds their own huge-ass list of recipes, so now they sit alongside my own in their own categories, some appear in both chemistry bench standalone, and ECO bench, some only in the ECO bench.
+At some point I will neaten this all up with a synthesis patcher or something to keep things standardised, and dynamically adjust to any mods I add/remove.
+
 
 ## CREDITS AND THANKS
 

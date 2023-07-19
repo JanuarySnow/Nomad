@@ -1,3 +1,34 @@
+## **v0.980**
+
+Buffed deathclaw and synth armor
+
+reduced player rifle damage and armor penetration slightly
+
+Updated advanced item sorter m8r
+
+Updated FallUI icon library to get some colored icons, yay.
+
+Updated Buffout 4, the version I had seemed fine, but it cant hurt to keep up to date to avoid rare crashes etc.
+
+Updated F4SE, similar reasoning to above.
+
+uncapped FPS in loading screens, but allowed them to process so it dosnt look frozen
+
+Added 4estgimps AI edits, so enemies are smarter and react quicker
+
+buffed Swan
+
+Fixed some more hat clipping
+
+Fixed vault 81 void no texture issue, by moving faction overhaul housing to below PRP (this also fixes no door for railroad HQ housing )
+
+generated CK Facegen and uploaded to WJ CDN to reduce stuttering from generating npc face geom on the fly
+
+removed enemy accuracy mod and stealth and detection mod, and just patched 4estgimps values instead.
+This also buffed enemy accuracy a bit, but its still less than vanilla
+
+Fixed crashing when crafting dog armor items with legendary attach points
+
 ## **V0.976**
 
 Added workaround for automatic workshop ownership switching when enemies cleared allowing player to hold V to access settlement menu

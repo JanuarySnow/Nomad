@@ -1,3 +1,7 @@
+## **v0.981**
+
+fixed broken map from last update
+
 ## **v0.980**
 
 Buffed deathclaw and synth armor

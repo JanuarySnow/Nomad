@@ -69,6 +69,10 @@ Here are some known results on different GPUs and resolutions, tested wandering 
 
 4090 @ 4k = 120fps ( Id hope so )
 
+Added a few optional mods to improve performance - Upscaler and Shadowboost and Lowspec tree textures and LOD
+
+Enable these mods as per the instructions in MO2, and select which fps target you are aiming for, and it will dynamically adjust shadows and FPS cap to match.
+
 This list requires a total install size of around 190GB ( of which around 90GB is Download size, and around 100GB is install files )
 
 ## MAJOR FEATURES

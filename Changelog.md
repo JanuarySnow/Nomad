@@ -1,3 +1,69 @@
+## **v0.999**
+
+added Ultra interior lighting
+
+added ultra exterior lighting
+
+added true nights DLC patch
+
+added ELFX and UIL merged patch
+
+added ELFX reduced fog and PRP patch
+
+added cubemap fix
+
+added radiant clouds
+
+Added creature texture upscale
+
+added dogmeat texture upscale
+
+added 4estgimps savrenx texture merge
+
+added far object lod improvement project
+
+removed esl flag on custom fast travel and companion loot quest mods as they had non-esl edits
+
+fixed junkier junk junkifier patch overwritten record type
+
+removed select guitars
+
+removed Legendary Effects Overhaul, too OP, too silly and unrealistic for this list
+
+ran texgen and lodgen
+
+removed ECO recipes
+
+added synth patchers for : fo4lip, clarity patcher etc
+
+switched out a forest for another pine forest
+
+increased rads from dirty water
+
+removed complex parallax rocks/landscapes as I decided againstr using that feature in ENB
+
+removed ENB and added F4 upscaler
+
+added shadowboost
+
+added optional mods that configure shadowboost and highfpsphysicsfix automatically
+
+added optional true grass null mod, and optional lower texture forest trees mod for performance boost
+
+regenerated xlodgen and texgen for lower spec optionals
+
+added base obejct swapper less dungeon loot mod to dynamically even further reduce food availability
+
+Added legendies they can use, bosses get legendaries from the excellent WhiskyTango
+
+added faster deathclaws
+
+removed unused standalone workbenches from COBJ menus
+
+added junkier junkier junk
+
+added perk restriction for crafting vault sink/decontamination arch
+
 ## **v0.981**
 
 fixed broken map from last update

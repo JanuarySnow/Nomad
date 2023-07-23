@@ -1,4 +1,4 @@
-# NOMAD
+![Fallout4 2023-07-23 23-51-03](https://github.com/JanuarySnow/Nomad/assets/85711747/84a3ab0d-ff0e-4c3c-b4be-a6123f9f77f6)# NOMAD
 
 ![nomad-banner](Cover/nomad-banner.webp)
 
@@ -26,6 +26,7 @@
   - [CONTROLS](#CONTROLS)
   - [KNOWN ISSUES](#KNOWN-ISSUES)
   - [CREDITS AND THANKS](#CREDITS-AND-THANKS)
+  - [SCREENSHOTS](#SCREENSHOTS)
 
 ## PREAMBLE ##
 
@@ -332,3 +333,16 @@ At some point I will neaten this all up with a synthesis patcher or something to
 - the creator of ReShade with its generous [License](Reshade/RESHADELICENSE.md) that allows me to include it.
 - The author of this mod for New Vegas, where I used the dry fire sounds, https://www.nexusmods.com/newvegas/mods/68941
 - Cover artwork from Bethesedas pre-production concept art, used with assumed permission as per Nexusmods policy on Betheseda assets used to mod Betheseda games.
+
+
+## SCREENSHOTS
+
+<img src="Screenshots/Fallout4 2023-07-23 23-51-03.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-51-50.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-51-59.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-52-29.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-52-33.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-53-46.png" alt="Alt text" title="Optional title">
+<img src="Screenshots/Fallout4 2023-07-23 23-54-18.png" alt="Alt text" title="Optional title">
+
+

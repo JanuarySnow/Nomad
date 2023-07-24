@@ -1,3 +1,42 @@
+## **v1.0**
+
+replaced cleaned homeplate with norespawns homeplate
+
+fixed some holstered weapons not showing up on back - by adding keywords to selected weapons
+This may cause issues with some weapons ( clipping, some users of the CHS mod report crashes too by doing this), please report if you  have any problems, make note of the specific weapon please.
+
+removed NPC holstered weapon display as it can cause crashes
+
+expanded the pipboy light size back to what it was before , I thought id prefer the smaller one for atmosphere but its just too weak
+
+copied fallout genetics presets into presets folder for use in character generation
+
+replaced main menu with a more stalker themed one
+
+added lush ambience
+
+added Rust textures
+
+added 4k vines/ivy
+
+aded 4k overgrown roads
+
+added non-gsync options to eliminate tearing
+
+added lowspec grass ini
+
+removed ELFX
+
+edited descriptions of VATS perks
+
+regenerated LODs and removed CK Facegen from ba2
+
+removed radiant clouds
+
+added eco bench and loot controller / base markers / fast travel markers to player on startup
+
+added lighthouse papyrus extender for future ideas
+
 ## **v0.999**
 
 added Ultra interior lighting

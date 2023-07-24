@@ -1,4 +1,4 @@
-![Fallout4 2023-07-23 23-51-03](https://github.com/JanuarySnow/Nomad/assets/85711747/84a3ab0d-ff0e-4c3c-b4be-a6123f9f77f6)# NOMAD
+# NOMAD
 
 ![nomad-banner](Cover/nomad-banner.webp)
 

@@ -190,7 +190,11 @@ You will not get the good pistols appearing in loot until level 10+, and rifles 
 
 good pre-war guns sell for a lot and cost a lot, but are rarer to drop - they are the guns that (generally) are of a much higher quality and jam far less.
 
-You start the game with a mobile workbench in a metal box near the exit to the vault, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
+You start the game with a mobile workbench, this simulates all of the vanilla workbenches plus some more in a menu, drop the ECO workbench or hotkey its related tool to access it, use this to craft anything.
+
+You also start with fast travel markers controller ( to denote up to 5 fast travel beacons you can use )
+
+And a companion loot controller to mark containers to send your followers home to stash loot for you
 
 Use the ECO quick menu (G key by default ) to switch ammo types for Crossbow/Bow/RPG
 
@@ -312,13 +316,8 @@ custom hotkeys are defined in the MCM for "Hotkey Manager"
 
 I really like the synthesis random facepart patcher that remixes the appearance of all NPCs automatically, but it does mean some hairstyles might clip with some hats, im trying to think of an automated solution, I like automation.
 
-Some slight floor shimmering in Home Plate
-
-Trees clipping through Nuka-World entrance train ride cinematic.
-
-Crafting bench categories are a bit of a mess; At first I did all the COBJs by hand, then I added ECO and ECO integrated which adds their own huge-ass list of recipes, so now they sit alongside my own in their own categories, some appear in both chemistry bench standalone, and ECO bench, some only in the ECO bench.
-At some point I will neaten this all up with a synthesis patcher or something to keep things standardised, and dynamically adjust to any mods I add/remove.
-
+Around 1 in 20 times I start a brand new game, it hangs on the loading screen. I restart the game, and it works. No idea why, but I can live with 1 in 20.
+Loading an existing save dosnt have this problem.
 
 ## CREDITS AND THANKS
 

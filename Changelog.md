@@ -1,3 +1,7 @@
+## **v1.1**
+
+Updated Buffout 4 with its recent crash fixes due to audio bugs it introduced in its archivelimitfix, set archivelimitfix = false anyway
+
 ## **v1.0**
 
 replaced cleaned homeplate with norespawns homeplate

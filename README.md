@@ -30,6 +30,8 @@
 
 ## PREAMBLE ##
 
+**RELEASES ARE NOW NO LONGER UPLOADED TO GITHUB, ALL NEW RELEASE UPDATES ARE STRICTLY ON THE WABBAJACK GALLERY UNDER "UNOFFICIAL LISTS"**
+
 **"I think getting shot in the head fucks you really bad but yeah I think its balanced if your not a shitter"** - User Feedback
 
 This is a wabbajack list for Fallout 4 that aims to shape the gameplay into a unique direction, one of solitude and atmosphere, and gritty immersion.

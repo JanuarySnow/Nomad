@@ -1,3 +1,28 @@
+## **v1.23**
+
+changelog 1.23 ( The "because Ive lost the will to actually care about where i was in version numbers, so who the F cares anymore about semantic versioning" Update )
+
+tentatively judged as save safe.
+
+Added bobblehead randomizer
+added envclave remantns
+added satelite world maps
+added post apocalyptic survivor armor set
+added the above armor to leveled lists and patches its recipes etc
+added SKK random encounter manager
+added Adjusted Encounter zones
+Added Lights in Load Elevators
+Added Power Armor Airdrop
+Patched power armor airdrop to be gated behind a charisma perk ( ex-local leader )
+FIxed Crossbow Medium Scope clipping with armor
+Removed empty beds and miscellaneous categories in ECO utility bench
+Removed all those damn config holotapes clogging up inventory on new game
+Added all music to a new custom radio station, and removed most ambient music from normal exploration
+Removed level up and XP sound effects
+Reduced vibrant green shade of grass ground cover texture
+Patched COndition Boy icon to be hidden when immersive hud hotkey is pressed
+Fixed crash from pilot jumpsuit  - yeeted it from leveled lists and marked it as deleted, this may cause the occasional gunner to be naked if you update on an existing savegame
+
 ## **v1.1**
 
 Updated Buffout 4 with its recent crash fixes due to audio bugs it introduced in its archivelimitfix, set archivelimitfix = false anyway

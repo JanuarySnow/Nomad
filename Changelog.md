@@ -1,3 +1,10 @@
+## **v1.25**
+
+(The "wtf is wrong with me, I didnt even add the crash fix to the last update, which is the entire reason I released that update early was to include the crashfix, so im updating again to add the crashfix I shouldve added before" update)
+
+Added my custom cart loot hobo storage mod
+Added the pilot jumpsuit crashfix for realzies this time
+
 ## **v1.23**
 
 changelog 1.23 ( The "because Ive lost the will to actually care about where i was in version numbers, so who the F cares anymore about semantic versioning" Update )

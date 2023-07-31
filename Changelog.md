@@ -1,3 +1,7 @@
+## **v1.26**
+
+Fix hobo carts
+
 ## **v1.25**
 
 (The "wtf is wrong with me, I didnt even add the crash fix to the last update, which is the entire reason I released that update early was to include the crashfix, so im updating again to add the crashfix I shouldve added before" update)

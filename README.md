@@ -3,9 +3,8 @@
 ![nomad-banner](Cover/nomad-banner.webp)
 
 <table stlyle="border: none;">
-<tr>
+<td><img src="https://cdn.discordapp.com/icons/1132691434420576337/a84d3c6ed7807aec2a8b758e96e50acf.webp?size=128" width="72px" /></td>
 <td><a href="https://discord.gg/xRrHRsb5e9">Support Discord</a></td>
-</tr>
 </table>
 
 ## Contents

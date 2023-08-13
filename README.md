@@ -4,8 +4,7 @@
 
 <table stlyle="border: none;">
 <tr>
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/GitHub.png" width="72px" /></td>
-<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+<td><a href="https://discord.gg/xRrHRsb5e9">Support Discord</a></td>
 </tr>
 </table>
 
@@ -44,7 +43,7 @@ It builds upon the excellent Welcome to Paradise Fallout 4 list by Phoenix, but 
 ## READ THIS BIT FIRST
 
 First and foremost - PLEASE READ THIS IF NOTHING ELSE: I have HEAVILY modified many many mods in this list, so they often look nothing like what they started out as.
-For this reason please do NOT go to the original authors on Nexusmods for support if something seems wrong, come to me on the Animonculory Discord linked above in the Nomad channels, or log an issue on this github.
+For this reason please do NOT go to the original authors on Nexusmods for support if something seems wrong, come to me on the Aetherius Modding Discord linked above in the Nomad channels, or log an issue on this github.
 
 For example - for many of the weapon mods I have added patches to remove the scripted leveled list injections and remade leveled lists by hand, and stopped them from being hand-placed in the world. If you read the original mods description you may be expecting something to appear ingame, that would not in this list.  If you go to the original mod author saying something is wrong you will either make them angry or be laughed at.
 
